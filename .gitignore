@@ -2,3 +2,5 @@ node_modules/*
 .idea/
 selenium-debug.log
 reports
+mochawesome-report
+mochawesome-reports
